@@ -1,6 +1,6 @@
 {
-  "name": "react-slick",
-  "version": "0.14.5",
+  "name": "react-slick-2",
+  "version": "0.14.6",
   "description": " React port of slick carousel",
   "main": "./lib",
   "scripts": {
@@ -9,11 +9,11 @@
     "test": "jest",
     "dev-test": "jest --watch"
   },
-  "author": "Kiran Abburi",
+  "author": "Chris Malliapi",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akiran/react-slick"
+    "url": "https://github.com/malliapi/react-slick-2"
   },
   "keywords": [
     "slick",
@@ -84,7 +84,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/akiran/react-slick/issues"
+    "url": "https://github.com/malliapi/react-slick-2/issues"
   },
-  "homepage": "https://github.com/akiran/react-slick"
+  "homepage": "https://github.com/malliapi/react-slick"
 }
